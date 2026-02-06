@@ -1,0 +1,15 @@
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\bin\Debug\Ogrenci_Sinav_Calısma_Projesi.exe.config
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\bin\Debug\Ogrenci_Sinav_Calısma_Projesi.exe
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\bin\Debug\Ogrenci_Sinav_Calısma_Projesi.pdb
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.csproj.AssemblyReference.cache
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Ana_Sayfa.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Frm_Giris.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Frm_ders_secimi.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Frm_uye_ol.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Properties.Resources.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.Frm_Sorular.resources
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.csproj.GenerateResource.cache
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.csproj.CoreCompileInputs.cache
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.exe
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.pdb
+D:\C Sharp  Ders\Ogrenci_Sinav_Calısma_Projesi\obj\Debug\Ogrenci_Sinav_Calısma_Projesi.exe.config
