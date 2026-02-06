@@ -52,5 +52,5 @@ mantığı üzerine kuruludur.
 
 ## Notlar
 
-Bu proje öğrenme ve pratik amaçlı geliştirilmiştir.
+Bu proje pratik amaçlı geliştirilmiştir.
 Kod yapısı özellikle sade tutulmuş, WinForms ve SQL mantığını pekiştirmeye odaklanılmıştır.
